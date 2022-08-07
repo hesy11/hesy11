@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hesy11
 - 👀 I’m interested in ... everything that can catch my mind 
-- 🌱 I’m currently learning ... about network and security
+- 🌱 I’m currently learning ... about network and network security
 - 💞️ I’m looking to collaborate with ... everyone who has the same way as me to catch new technology
 - 📫 How to reach me ... I'm here !!! 
 
